@@ -1,6 +1,13 @@
 # Random User API
-# handMade by Pong
+### handMade by Pong
 
-1. clone repo
-2. npm install
-3. npm start or nodemon
+_Note: make sure you are running node 8.11.0 or above
+
+```
+npm install
+npm start or nodemon
+
+```
+
+Then go to
+http://localhost:3131

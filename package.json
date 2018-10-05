@@ -1,0 +1,21 @@
+{
+  "name": "rua",
+  "version": "0.0.1",
+  "description": "API in Node.js/Express exposing 3 endpoints to GET and POST random user data!",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "nodemon": "^1.12.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:PinkPong/rua.git"
+  },
+  "author": "PinkPong",
+  "license": "ISC"
+}

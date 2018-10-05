@@ -4,7 +4,9 @@
   "description": "API in Node.js/Express exposing 3 endpoints to GET and POST random user data!",
   "main": "index.js",
   "dependencies": {
+    "chalk": "^2.4.1",
     "express": "^4.16.3",
+    "node-fetch": "^2.2.0",
     "nodemon": "^1.12.1"
   },
   "devDependencies": {},
